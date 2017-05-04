@@ -1,0 +1,22 @@
+h1{
+  color: Blue;
+  font-family: arial
+ 
+}
+div {
+  width: 200px;
+  font-size: 28pt
+}
+
+.blueback {
+  background-color: blue;
+}
+.yellowback {
+  background-color: yellow;
+}
+.orangeback {
+  background-color: orange;
+}
+.fuchsiaback {
+  background-color: fuchsia;
+}

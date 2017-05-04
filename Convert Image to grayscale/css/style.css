@@ -1,0 +1,12 @@
+canvas {
+  border: 1px solid #c3c3c3;
+  height: 200px
+}
+input {
+  font-size: 10pt;
+  padding: 3pt;
+}
+h1 {
+  font-family:arial;
+  color: fuchsia;
+}
